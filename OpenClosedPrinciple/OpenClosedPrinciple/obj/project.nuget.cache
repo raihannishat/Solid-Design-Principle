@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VMXI7eiS84kJzkLq+A3AjSsHbqRfRxqXJOEwDvFZS2w9phzPiwI7goehB83JVY5AnFShkYABqAeJcZMBHdevAA==",
+  "success": true,
+  "projectFilePath": "E:\\Code\\SOLID\\OpenClosedPrinciple\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raihan Nishat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

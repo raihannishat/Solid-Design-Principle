@@ -1,0 +1,13 @@
+E:\Code\SOLID\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.exe
+E:\Code\SOLID\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.deps.json
+E:\Code\SOLID\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.runtimeconfig.json
+E:\Code\SOLID\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.runtimeconfig.dev.json
+E:\Code\SOLID\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.dll
+E:\Code\SOLID\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.pdb
+E:\Code\SOLID\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.csprojAssemblyReference.cache
+E:\Code\SOLID\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+E:\Code\SOLID\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.AssemblyInfo.cs
+E:\Code\SOLID\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+E:\Code\SOLID\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.dll
+E:\Code\SOLID\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.pdb
+E:\Code\SOLID\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\netcoreapp3.1\LiskovSubstitutionPrinciple.genruntimeconfig.cache

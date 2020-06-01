@@ -1,0 +1,13 @@
+E:\Code\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.exe
+E:\Code\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.deps.json
+E:\Code\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.runtimeconfig.json
+E:\Code\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.runtimeconfig.dev.json
+E:\Code\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.dll
+E:\Code\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.pdb
+E:\Code\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.csprojAssemblyReference.cache
+E:\Code\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.AssemblyInfoInputs.cache
+E:\Code\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.AssemblyInfo.cs
+E:\Code\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+E:\Code\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.dll
+E:\Code\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.pdb
+E:\Code\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.genruntimeconfig.cache

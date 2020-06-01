@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eUneabUD6XxaeHRdUFfYfv+JynNJ9nYsDC8CSIaXmUBxAp1nDI9gmKm61Xiqj2LvM1gjARiA8ER+/ZU07SzcFg==",
+  "success": true,
+  "projectFilePath": "E:\\Code\\SOLID\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raihan Nishat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

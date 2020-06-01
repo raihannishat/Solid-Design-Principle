@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wTmN8kLTdiZvKdjtJ+w+w+VZmyD02VUWReT6U3EAUMSROdZJRQzRBZj6wS+vQgYKlLvlfMo3CB8B69AFURJuTA==",
+  "success": true,
+  "projectFilePath": "E:\\Code\\SOLID\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raihan Nishat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

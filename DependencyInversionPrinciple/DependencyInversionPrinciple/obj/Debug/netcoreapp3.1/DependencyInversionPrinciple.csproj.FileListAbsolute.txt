@@ -1,0 +1,13 @@
+E:\Code\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.exe
+E:\Code\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.deps.json
+E:\Code\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.runtimeconfig.json
+E:\Code\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.runtimeconfig.dev.json
+E:\Code\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.dll
+E:\Code\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\netcoreapp3.1\DependencyInversionPrinciple.pdb
+E:\Code\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.csprojAssemblyReference.cache
+E:\Code\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+E:\Code\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.AssemblyInfo.cs
+E:\Code\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+E:\Code\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.dll
+E:\Code\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.pdb
+E:\Code\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\netcoreapp3.1\DependencyInversionPrinciple.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Code\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.exe
+E:\Code\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.deps.json
+E:\Code\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.runtimeconfig.json
+E:\Code\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.runtimeconfig.dev.json
+E:\Code\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.dll
+E:\Code\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.pdb
+E:\Code\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.csprojAssemblyReference.cache
+E:\Code\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+E:\Code\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.AssemblyInfo.cs
+E:\Code\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+E:\Code\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.dll
+E:\Code\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.pdb
+E:\Code\SOLID\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegregationPrinciple.genruntimeconfig.cache
