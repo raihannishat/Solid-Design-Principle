@@ -9,14 +9,14 @@ namespace SingleResponsibilityPrinciple
     {
         public int count = 0;
         public List<string> cows { get; set; }
-        public List<string> gots { get; set; }
+        public List<string> goats { get; set; }
         
         public void Example1()
         {
             count = cows.Count;
             Console.WriteLine($"Total Cows {count}");
 
-            count = gots.Count;
+            count = goats.Count;
             Console.WriteLine($"Total Gots {count}");
         }
 
